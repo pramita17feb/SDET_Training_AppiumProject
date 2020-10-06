@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="261395" started-at="2020-10-05T12:41:11Z" finished-at="2020-10-05T12:45:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="261395" started-at="2020-10-05T12:41:11Z" finished-at="2020-10-05T12:45:33Z">
+      <class name="magento_Test.Test_MA006_Magento_unsuccesfulLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:magento_Test.Test_MA006_Magento_unsuccesfulLogin@3bfdc050]" name="setup" is-config="true" duration-ms="95979" started-at="2020-10-05T18:11:11Z" finished-at="2020-10-05T18:12:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="unsuccessfulLogin()[pri:0, instance:magento_Test.Test_MA006_Magento_unsuccesfulLogin@3bfdc050]" name="unsuccessfulLogin" duration-ms="165367" started-at="2020-10-05T18:12:47Z" finished-at="2020-10-05T18:15:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- unsuccessfulLogin -->
+      </class> <!-- magento_Test.Test_MA006_Magento_unsuccesfulLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
